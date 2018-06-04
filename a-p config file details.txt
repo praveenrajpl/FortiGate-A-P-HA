@@ -7,12 +7,9 @@ ip3
 ip4
 
 
-
 tenant id
 subscription id
 client secret
-
-
 
 
 manipulation
